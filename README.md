@@ -39,4 +39,11 @@ Run the program. # Compile the program.
 
 ./program # Run the program.
 
+```
+
+## 📌 Author
+
+**Sumit Kumar**
+
+
 
