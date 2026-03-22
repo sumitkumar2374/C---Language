@@ -30,7 +30,7 @@ The main goal of this repository is to practice and improve C programming skills
 1. Install a C compiler (GCC recommended).
 2. Clone this repository.
 ```bash
-git clone https://github.com/your-username/your-repository-name.git
+git clone https://github.com/sumitkumar2374/C---Language.git
 
 ```
 3. gcc program.c -o program # Navigate to the folder.
