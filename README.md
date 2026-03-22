@@ -29,21 +29,18 @@ The main goal of this repository is to practice and improve C programming skills
 
 1. Install a C compiler (GCC recommended).
 2. Clone this repository.
-
 ```bash
 git clone https://github.com/your-username/your-repository-name.git
 
-gcc program.c -o program # Navigate to the folder.
-
-Run the program. # Compile the program.
-
-./program # Run the program.
-
 ```
+3. gcc program.c -o program # Navigate to the folder.
+4. Run the program. # Compile the program.
+
+5. ./program # Run the program.
 
 ## 📌 Author
 
-**Sumit Kumar**
+**Mr Sumit Kumar**
 
 
 
