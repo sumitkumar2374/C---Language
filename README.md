@@ -3,6 +3,7 @@
 - 1st/2nd commit
 - 3rd commit list is attaching some file
 - 4th commit list is the preview and check
+- 5th commit list is the final check
 
 ---
 
