@@ -1,12 +1,3 @@
-# Here are the commit list for contribution graph
-
-- 1st/2nd commit
-- 3rd commit list is attaching some file
-- 4th commit list is the preview and check
-- 5th commit list is the final check
-
----
-
 # C Programming Repository
 
 This repository contains C programming examples and practice programs to help build strong fundamentals in programming and problem-solving.
