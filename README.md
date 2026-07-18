@@ -2,7 +2,8 @@
 
 - 1st/2nd commit
 - 3rd commit list is the attachment of some file
-- 4th commit list is the fix and changes in main change 
+- 4th commit list is the fix and changes in main change
+- 5th commit is the preview list 
 
 ---
 
