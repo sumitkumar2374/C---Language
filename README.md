@@ -2,7 +2,8 @@
 
 - 1st/2nd commit
 - 3rd commit list is the attaching some imp file
-- 4th commit list is the check and preview 
+- 4th commit list is the check and preview
+- 5th commit list is the editing 
 
 # C Programming Repository
 
