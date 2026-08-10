@@ -1,7 +1,3 @@
-# Here are the check list 
-
-- 1st/2nd commit
-
 # C Programming Repository
 
 This repository contains C programming examples and practice programs to help build strong fundamentals in programming and problem-solving.
