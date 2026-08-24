@@ -2,8 +2,7 @@
 
 - 1st/2nd commit list
 - 3rd commit list is the attaching some imp file in main
-- 4th commit list is the changes
-- 5th commit list is the check file 
+- 4th commit list is the fix some problem in feat branch
 
 # C Programming Repository
 
