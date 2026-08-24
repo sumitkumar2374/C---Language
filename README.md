@@ -1,5 +1,7 @@
 # Here are the commit list for contribution graph 
 
+- 1st/2nd commit list 
+
 # C Programming Repository
 
 This repository contains C programming examples and practice programs to help build strong fundamentals in programming and problem-solving.
