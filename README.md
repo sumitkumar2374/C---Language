@@ -1,7 +1,3 @@
-# Here are the commits list for contribution graph 
-
-- 1st/2nd commit list is the attaching some imp file in main 
-
 # C Programming Repository
 
 This repository contains C programming examples and practice programs to help build strong fundamentals in programming and problem-solving.
