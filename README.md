@@ -17,6 +17,8 @@ This repository contains C programming examples and practice programs to help bu
 - Structures
 - File Handling
 
+---
+
 ## 🎯 Purpose
 
 The main goal of this repository is to practice and improve C programming skills by implementing different concepts and solving problems.
