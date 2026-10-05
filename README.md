@@ -68,16 +68,6 @@ git clone https://github.com/sumitkumar2374/C---Language.git
 
 5. ./program # Run the program.
 
-## 📌 Author
-
-**Mr Sumit Kumar**
-
-<<<<<<< HEAD
-./program # Run the program.
-```
-=======
->>>>>>> 9f2e9b42b847071c63e3ffcc742cb543bc828aa8
-
 ---
 
 ## 👨‍💻 Author
