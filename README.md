@@ -68,5 +68,13 @@ gcc program.c -o program # Navigate to the folder.
 Run the program. # Compile the program.
 
 ./program # Run the program.
+```
 
+---
 
+## 👨‍💻 Author
+
+**Sumit Kumar**  
+B.Tech CSE Undergraduate | Aspiring Full Stack Web Developer
+
+[GitHub](https://github.com/sumitkumar2374) 
