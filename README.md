@@ -2,6 +2,8 @@
 
 This repository contains C programming examples and practice programs to help build strong fundamentals in programming and problem-solving.
 
+---
+
 ## 📚 Topics Covered
 
 - Basic C Programs
