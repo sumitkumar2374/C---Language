@@ -4,6 +4,28 @@ This repository contains C programming examples and practice programs to help bu
 
 ---
 
+                         💻 C LANGUAGE
+                              │
+       ┌──────────┬───────────┼───────────┬───────────┐
+       ↓          ↓           ↓           ↓           ↓
+   🔰 Basics   🔢 Data     🔀 Control  📦 Functions 📚 Arrays
+                  Types       Flow
+       │          │           │           │           │
+    ┌──┼──┐    ┌──┼──┐    ┌──┼──┐     ┌──┼──┐    ┌──┼──┐
+    ↓  ↓  ↓    ↓  ↓  ↓    ↓  ↓  ↓     ↓  ↓  ↓    ↓  ↓  ↓
+  I/O Var ...  Arith ...  if loop ...  Recursion ... Strings
+
+                              │
+              ┌───────────────┼────────────────┐
+              ↓               ↓                ↓
+          👉 Pointers    🏗️ Structures    💾 File Handling
+              │
+        ┌─────┼─────┐
+        ↓     ↓     ↓
+       & *  Arrays Functions
+
+---
+
 ## 📚 Topics Covered
 
 - Basic C Programs
