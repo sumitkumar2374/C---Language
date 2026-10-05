@@ -23,11 +23,15 @@ This repository contains C programming examples and practice programs to help bu
 
 The main goal of this repository is to practice and improve C programming skills by implementing different concepts and solving problems.
 
+---
+
 ## 🛠️ Tools Used
 
 - C Language
 - GCC Compiler
 - Visual Studio Code
+
+---
 
 ## 🚀 How to Run
 
