@@ -8,7 +8,9 @@ This repository contains C programming examples and practice programs to help bu
 
 ```mermaid
 flowchart TD
-    A["💻 C Language"] --> B["🔰 Basics"]
+    A["💻 C Language"]
+    
+    A --> B["🔰 Basics"]
     A --> C["🔢 Data Types & Operators"]
     A --> D["🔀 Control Flow"]
     A --> E["⚙️ Functions"]
