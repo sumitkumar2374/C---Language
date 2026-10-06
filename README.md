@@ -65,6 +65,7 @@ flowchart TD
     J --> J2["calloc()"]
     J --> J3["realloc()"]
     J --> J4["free()"]
+```
     
 ---
 
