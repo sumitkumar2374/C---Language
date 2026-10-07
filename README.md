@@ -8,67 +8,70 @@ This repository contains C programming examples and practice programs to help bu
 
 ```mermaid
 flowchart TD
-
     A["💻 C Language"]
 
     A --> B["🔰 Basics"]
+    A --> C["🔢 Data Types & Operators"]
+    A --> D["🔀 Control Flow"]
+
     B --> B1["Syntax"]
-    B1 --> B2["Variables"]
-    B2 --> B3["Input / Output"]
-    B3 --> B4["Keywords & Identifiers"]
+    B --> B2["Variables"]
+    B --> B3["Input / Output"]
 
-    B4 --> C["🔢 Data Types & Operators"]
     C --> C1["Data Types"]
-    C1 --> C2["Arithmetic Operators"]
-    C2 --> C3["Relational Operators"]
-    C3 --> C4["Logical Operators"]
-    C4 --> C5["Bitwise Operators"]
+    C --> C2["Arithmetic"]
+    C --> C3["Relational"]
+    C --> C4["Logical"]
+    C --> C5["Bitwise"]
 
-    C5 --> D["🔀 Control Flow"]
     D --> D1["if / else"]
-    D1 --> D2["switch"]
-    D2 --> D3["for Loop"]
-    D3 --> D4["while Loop"]
-    D4 --> D5["do-while"]
-    D5 --> D6["break / continue"]
+    D --> D2["switch"]
+    D --> D3["Loops"]
+    D --> D4["break / continue"]
 
-    D6 --> E["⚙️ Functions"]
-    E --> E1["Function Declaration"]
-    E1 --> E2["Parameters & Arguments"]
-    E2 --> E3["Return Values"]
-    E3 --> E4["Recursion"]
+    B3 --> E["⚙️ Functions"]
+    C5 --> E
+    D4 --> E
 
-    E4 --> F["📦 Arrays & Strings"]
-    F --> F1["1D Arrays"]
-    F1 --> F2["2D Arrays"]
-    F2 --> F3["Strings"]
-    F3 --> F4["String Functions"]
+    E --> E1["Declaration"]
+    E --> E2["Parameters"]
+    E --> E3["Return"]
+    E --> E4["Recursion"]
 
-    F4 --> G["👉 Pointers"]
+    E --> F["📦 Arrays & Strings"]
+    E --> G["👉 Pointers"]
+
+    F --> F1["1D Array"]
+    F --> F2["2D Array"]
+    F --> F3["Strings"]
+    F --> F4["String Functions"]
+
     G --> G1["Pointer Basics"]
-    G1 --> G2["& and *"]
-    G2 --> G3["Pointers & Arrays"]
-    G3 --> G4["Pointers & Functions"]
-    G4 --> G5["Pointer to Pointer"]
+    G --> G2["& and *"]
+    G --> G3["Pointers & Arrays"]
+    G --> G4["Pointers & Functions"]
 
-    G5 --> H["🏗️ Structures & Unions"]
+    F4 --> H["🏗️ Structures & Unions"]
+    G4 --> H
+
     H --> H1["Structure"]
-    H1 --> H2["Nested Structure"]
-    H2 --> H3["Union"]
-    H3 --> H4["typedef"]
+    H --> H2["Nested Structure"]
+    H --> H3["Union"]
+    H --> H4["typedef"]
 
-    H4 --> I["💾 File Handling"]
-    I --> I1["File Open / Close"]
-    I1 --> I2["Read / Write"]
-    I2 --> I3["File Modes"]
+    H --> I["💾 File Handling"]
+    H --> J["🧠 Dynamic Memory"]
 
-    I3 --> J["🧠 Dynamic Memory"]
+    I --> I1["Open / Close"]
+    I --> I2["Read / Write"]
+    I --> I3["File Modes"]
+
     J --> J1["malloc()"]
-    J1 --> J2["calloc()"]
-    J2 --> J3["realloc()"]
-    J3 --> J4["free()"]
+    J --> J2["calloc()"]
+    J --> J3["realloc()"]
+    J --> J4["free()"]
 ```
-    
+
 ---
 
 ## 📚 Topics Covered
