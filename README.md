@@ -1,10 +1,3 @@
-# Here are the commit list for contribution graph 
-
-- 1st/2nd commit
-- 3rd commit list to attach some imp file
-- 4th commit list to preview
-- 5th commit list to check 
-
 # C Programming Repository
 
 This repository contains C programming examples and practice programs to help build strong fundamentals in programming and problem-solving.
