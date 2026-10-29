@@ -1,6 +1,6 @@
 # C Programming Repository
 
-This repository contains C programming examples and practice programs to help build strong fundamentals in programming and problem-solving.
+This repository contains `C programming` examples and practice programs to help build strong fundamentals in `programming` and problem-solving.
 
 ---
 
@@ -91,7 +91,7 @@ flowchart TD
 
 ## 🎯 Purpose
 
-The main goal of this repository is to practice and improve C programming skills by implementing different concepts and solving problems.
+The main goal of this repository is to practice and improve `C programming` skills by implementing different concepts and solving problems.
 
 ---
 
@@ -111,8 +111,8 @@ The main goal of this repository is to practice and improve C programming skills
 git clone https://github.com/sumitkumar2374/C---Language.git
 
 ```
-3. gcc program.c -o program # Navigate to the folder.
-4. Run the program. # Compile the program.
+3. gcc program.c -o program # Navigate to the `folder`.
+4. Run the program. # Compile the `program`.
 
 5. ./program # Run the program.
 
