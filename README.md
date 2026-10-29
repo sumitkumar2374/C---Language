@@ -77,7 +77,7 @@ flowchart TD
 ## 📚 Topics Covered
 
 - Basic C Programs
-- Variables and Data Types
+- Variables and `Data Types`
 - Operators
 - Conditional Statements (if, else, switch)
 - Loops (for, while, do-while)
@@ -91,7 +91,7 @@ flowchart TD
 
 ## 🎯 Purpose
 
-The main goal of this repository is to practice and improve `C programming` skills by implementing different concepts and solving problems.
+The main goal of this repository is to practice and improve `C programming` skills by implementing different concepts and `solving problems`.
 
 ---
 
@@ -105,8 +105,8 @@ The main goal of this repository is to practice and improve `C programming` skil
 
 ## 🚀 How to Run
 
-1. Install a C compiler (GCC recommended).
-2. Clone this repository.
+1. Install a `C compiler` (GCC recommended).
+2. Clone this `repository`.
 ```bash
 git clone https://github.com/sumitkumar2374/C---Language.git
 
